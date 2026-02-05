@@ -1,5 +1,8 @@
 nginx:1.29.5
+# blinko 备忘录
 blinkospace/blinko:1.8.4
+# 网盘聚合管理工具
+openlistteam/openlist:v4.1.10
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
