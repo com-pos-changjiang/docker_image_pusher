@@ -3,6 +3,8 @@ nginx:1.29.5
 # blinko 备忘录
 blinkospace/blinko:1.8.4
 blinkospace/blinko:1.8.5
+# blinko 需要的依赖镜像
+postgres:14
 # 网盘聚合管理工具
 openlistteam/openlist:v4.1.10
 # flare个人导航页
