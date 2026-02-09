@@ -1,3 +1,6 @@
+#代理镜像：具有多功能安全隧道
+ginuerzh/gost
+
 nginx:1.28.0
 nginx:1.29.5
 # blinko 备忘录
