@@ -1,20 +1,20 @@
 #代理镜像：具有多功能安全隧道
-ginuerzh/gost
+# ginuerzh/gost
 
-nginx:1.28.0
-nginx:1.29.5
+# nginx:1.28.0
+# nginx:1.29.5
 # blinko 备忘录
-blinkospace/blinko:1.8.4
-blinkospace/blinko:1.8.5
+# blinkospace/blinko:1.8.4
+# blinkospace/blinko:1.8.5
 # blinko 需要的依赖镜像
-postgres:14
+# postgres:14
 # 网盘聚合管理工具
-openlistteam/openlist:v4.1.10
+# openlistteam/openlist:v4.1.10
 # flare个人导航页
-soulteary/flare:latest
+# soulteary/flare:latest
 # webdav镜像
-hacdias/webdav:v5.10
-bytemark/webdav:latest
+# hacdias/webdav:v5.10
+# bytemark/webdav:latest
 #drawio 图形绘画
 graph/drawio:29.3.5
 #支持私库
