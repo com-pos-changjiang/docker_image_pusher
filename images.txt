@@ -15,7 +15,8 @@ soulteary/flare:latest
 # webdav镜像
 hacdias/webdav:v5.10
 bytemark/webdav:latest
-
+#drawio 图形绘画
+graph/drawio:29.3.5
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
